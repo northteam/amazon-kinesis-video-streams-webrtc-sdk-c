@@ -71,6 +71,9 @@ var group__PublicStructures =
       [ "cacheFilePath", "group__StatusCodes.html#gac9e805db054ce941d24b1b0ce5e72946", null ],
       [ "clientId", "group__StatusCodes.html#ga164f67d7c1bb29cfe65eeace765495cd", null ],
       [ "loggingLevel", "group__StatusCodes.html#ga8df6838b31452ecf1bd1cf1a0fffa680", null ],
+      [ "signalingClientCreationMaxRetryAttempts", "group__StatusCodes.html#gafaf099a0c85ede248da1ef35bea2bf5c", null ],
+      [ "signalingRetryStrategyCallbacks", "group__StatusCodes.html#ga87eb795fbdbf266819688941c80770eb", null ],
+      [ "stateMachineRetryCountReadOnly", "group__StatusCodes.html#ga9121e19802bb740a1b695f2be5250e47", null ],
       [ "version", "group__StatusCodes.html#gaad776eab978b30bd3f21ecd3432c93a0", null ]
     ] ],
     [ "ChannelInfo", "structChannelInfo.html", [
@@ -107,6 +110,7 @@ var group__PublicStructures =
     [ "SignalingClientCallbacks", "structSignalingClientCallbacks.html", [
       [ "customData", "group__StatusCodes.html#gac1108b3f0f014f820025b0eaf345ffc4", null ],
       [ "errorReportFn", "group__StatusCodes.html#ga541b18458a4b4ec54117a6130fd48d6a", null ],
+      [ "getCurrentTimeFn", "group__StatusCodes.html#gad0daf0b032e00296053d23ce8038a2c1", null ],
       [ "messageReceivedFn", "group__StatusCodes.html#gaf62848d4a3bdf038a7a05ae5cc792610", null ],
       [ "stateChangeFn", "group__StatusCodes.html#ga8a72e56bbf4b4dae2b19306acda39523", null ],
       [ "version", "group__StatusCodes.html#ga28e1f7ffcd30600fbeecd7f682e6afed", null ]
